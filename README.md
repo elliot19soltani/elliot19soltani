@@ -20,7 +20,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Software developer and Electrical Engineering student at SBU.
+<!-- I'm a Software developer and Electrical Engineering student at SBU.
 - 🔭 My current focus areas are **ML, DL and Computer Vision**.
 - 🌱 I'm interested in **Transformers** and **Diffusion models** and doing Research in those areas.
+- 📫 Feel free to reach me: [mohammad.hossein19soltani@gmail.com](mailto:mohammad.hossein19soltani@gmail.com)
+-->
+
+I'm a Software developer and Electrical Engineer graduated from SBU (Shahid Beheshti University).
+- 🔭 My current focus areas are **ML and DL**.
 - 📫 Feel free to reach me: [mohammad.hossein19soltani@gmail.com](mailto:mohammad.hossein19soltani@gmail.com)
