@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 - 📫 Feel free to reach me: [mohammad.hossein19soltani@gmail.com](mailto:mohammad.hossein19soltani@gmail.com)
 -->
 
-I'm a Software developer and Electrical Engineer graduated from SBU (Shahid Beheshti University).
+I'm a Software developer and Electrical Engineer graduated from NUI (National University of Iran).
 - 🔭 My current focus areas are **ML and DL**.
 - 📫 Feel free to reach me: [mohammad.hossein19soltani@gmail.com](mailto:mohammad.hossein19soltani@gmail.com)
